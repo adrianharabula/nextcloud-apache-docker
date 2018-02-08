@@ -1,0 +1,9 @@
+[mysqld]
+binlog_format = MIXED
+transaction-isolation = READ-COMMITTED
+innodb_large_prefix = on
+innodb_file_format = barracuda
+innodb_file_per_table = true
+character-set-client-handshake = FALSE
+character-set-server = utf8mb4
+collation-server = utf8mb4_general_ci
