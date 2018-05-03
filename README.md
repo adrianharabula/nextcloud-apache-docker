@@ -1,2 +1,2 @@
 # nextcloud-apache-docker
-Docker compose file for running Nextcloud app
+Stack file for running Nextcloud app with Apache and MySQL.
